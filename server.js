@@ -4,7 +4,7 @@ const fs = require("fs");
 const prefix = "r!"
 let bot = client
 
-client.login("Njg0MDQ1MjI4MjA1ODAxNTM2.XvIIzA.AOAQGtO_UdAU90c1cK7uNnaoiLs");//
+client.login("");//
 /*client.on("ready", () => 
   console.log("[PANEL-INFO] Script started!"));
 client.on("ready", () => {
